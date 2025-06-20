@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9a2f534574de584fad562cb70ccafaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eraSelectionPanel: {instanceID: 0}
+  - confirmationPanel: {instanceID: 0}
+  - transitionAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
